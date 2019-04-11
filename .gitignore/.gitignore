@@ -1,11 +1,11 @@
 # Compiled class file
 *.class
 
-#
-.gradle
+#ignore folder gradle
+gradle/
 
-#
-.idea
+#ignore folder idea
+idea/
 
 # Log file
 *.log
